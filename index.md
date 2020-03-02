@@ -211,8 +211,7 @@ We will use this <a href="{{page.collaborative_notes}}">collaborative document</
 SURVEYS - DO NOT EDIT SURVEY LINKS 
 {% endcomment %}
 <h2 id="surveys">Surveys</h2>
-<p>Please be sure to complete these surveys before and after the workshop.</p>
-<p><a href="https://www.surveymonkey.com/r/fiji-pre-survey">Pre-workshop Survey</a></p>
+<p>Please be sure to complete this survey after the workshop.</p>
 <p><a href="">Post-workshop Survey</a></p>
 
 <hr/>
