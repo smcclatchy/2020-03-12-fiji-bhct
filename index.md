@@ -13,7 +13,7 @@ enddate: 2020-03-13
 instructor: ["Erick Ratamero"] 
 helper: ["Dave Mellert, Jim Peterson"]  
 email: ["susan.mcclatchy@jax.org"]  
-collaborative_notes: https://pad.carpentries.org/2020-03-06-hpc-bhct
+collaborative_notes: https://pad.carpentries.org/2020-03-12-fiji-bhct
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
