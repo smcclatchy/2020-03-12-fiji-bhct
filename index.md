@@ -13,7 +13,7 @@ enddate: 2020-03-13
 instructor: ["Erick Ratamero"] 
 helper: ["Dave Mellert, Jim Peterson"]  
 email: ["susan.mcclatchy@jax.org"]  
-collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
+collaborative_notes: https://pad.carpentries.org/2020-03-06-hpc-bhct
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
